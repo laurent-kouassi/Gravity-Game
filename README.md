@@ -9,6 +9,6 @@ Next Update:
    Click on the right data image and score 1
    
    
- This game is design for my interview purpose. 
+ This game was design for my interview purpose. 
 
  
